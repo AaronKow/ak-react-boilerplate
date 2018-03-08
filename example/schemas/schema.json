@@ -1,0 +1,61 @@
+{
+  "events": [
+    {
+      "title": "School holidays starts (until 31 Dec)",
+      "type": "Terms and holidays",
+      "url": "",
+      "start": "2018-02-17T05:32:15.032Z",
+      "end": "2018-02-20T05:32:15.032Z",
+      "allDay": false,
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras commodo congue magna non accumsan. Etiam porttitor risus libero, id volutpat dui varius ac."
+    }, {
+      "title": "PSLE results released",
+      "type": "Admissions",
+      "url": "https://www.google.com",
+      "start": "2018-02-12T05:32:15.032Z",
+      "end": "2018-02-13T05:32:15.032Z",
+      "allDay": true,
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras commodo congue magna non accumsan. Etiam porttitor risus libero, id volutpat dui varius ac."
+    }, {
+      "title": "Chinese New Year",
+      "type": "Public holidays",
+      "url": "https://www.google.com",
+      "start": "2018-02-14T05:32:15.032Z",
+      "end": "2018-02-15T05:32:15.032Z",
+      "allDay": false,
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras commodo congue magna non accumsan. Etiam porttitor risus libero, id volutpat dui varius ac."
+    }, {
+      "title": "Semester Break 2",
+      "type": "Terms and holidays",
+      "url": "https://www.google.com",
+      "start": "2018-02-20T05:32:15.032Z",
+      "end": null,
+      "allDay": true,
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras commodo congue magna non accumsan. Etiam porttitor risus libero, id volutpat dui varius ac."
+    }, {
+      "title": "Final Examination 1a",
+      "type": "National exam",
+      "url": "https://www.example.com",
+      "start": "2018-02-20T05:32:15.032Z",
+      "end": null,
+      "allDay": true,
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras commodo congue magna non accumsan. Etiam porttitor risus libero, id volutpat dui varius ac."
+    }, {
+      "title": "Final Examination 1b Final Examination 1b",
+      "type": "National exam",
+      "url": "https://www.example.com",
+      "start": "2018-02-20T15:32:15.032Z",
+      "end": "2018-02-23T15:32:15.032Z",
+      "allDay": true,
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras commodo congue magna non accumsan. Etiam porttitor risus libero, id volutpat dui varius ac."
+    }, {
+      "title": "Final Examination 2",
+      "type": "National exam",
+      "url": "https://www.google.com",
+      "start": "2018-02-16T05:32:15.032Z",
+      "end": "2018-02-20T05:32:15.032Z",
+      "allDay": false,
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras commodo congue magna non accumsan. Etiam porttitor risus libero, id volutpat dui varius ac."
+    }
+  ]
+}
